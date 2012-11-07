@@ -2,7 +2,7 @@
 <scheme name="ZenBurn" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="3399ff" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="cccc" />
@@ -359,6 +359,16 @@
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="99ccff" />
+      </value>
+    </option>
+    <option name="DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="b8b866" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -1242,6 +1252,26 @@
       </value>
     </option>
     <option name="SCOPE_KEY_All">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_Changed Files">
+      <value>
+        <option name="FOREGROUND" />
+        <option name="BACKGROUND" />
+        <option name="FONT_TYPE" value="0" />
+        <option name="EFFECT_COLOR" />
+        <option name="EFFECT_TYPE" value="0" />
+        <option name="ERROR_STRIPE_COLOR" />
+      </value>
+    </option>
+    <option name="SCOPE_KEY_Default">
       <value>
         <option name="FOREGROUND" />
         <option name="BACKGROUND" />
